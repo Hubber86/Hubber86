@@ -72,7 +72,7 @@ Authors: *Prajwal B Kalashetty, Avdhut R Punekar, Sourav H Lokhande, Hemalata Na
 - 💼 [LinkedIn](https://www.linkedin.com/in/prajwal-kalashetty-0527321b0)
 - 📝 [Resume](https://prajwal-kalashetty-resume.vercel.app/)
 - 📸 [Instagram](https://www.instagram.com/_prajwal_kalashetty/)
-- ✉️ Email: [prajwalkalashetty786@gmail.com](mailto:prajwalkalashetty786@gmail.com) (optional)
+- ✉️ Email: [prajwalkalashetty786@gmail.com](mailto:prajwalkalashetty786@gmail.com) 
 
 ---
 
